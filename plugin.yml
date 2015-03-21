@@ -1,0 +1,5 @@
+name: AimBot
+main: com.empcraft.arrowtest.Main
+version: 1
+description: Arrow targeting test
+authors: [Empire92]
